@@ -5,6 +5,7 @@
   "repository": "https://github.com/SynCROSS/learning-express.git",
   "author": "SynCROSS <kuuhaku3125@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "start": "npx nodemon app.js"
   },
